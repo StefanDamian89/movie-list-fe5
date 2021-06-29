@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 
-import Header from './shared/Header'
+import Header from './components/navbar'
 import SearchBox from './search/SearchBox'
 import SavedMovies from './savedmovies/SavedMovies'
 
