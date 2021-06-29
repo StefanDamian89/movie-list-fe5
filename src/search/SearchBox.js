@@ -13,6 +13,7 @@ import { searchMovies, searchActors } from '../shared/API'
 
 import styles from './SearchBox.module.css'
 
+
 const MovieList = (props) => {
   return (
     <div>
